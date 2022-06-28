@@ -1,0 +1,24 @@
+
+.NavbarOne {
+    display: flex;
+    gap: 20px;
+    position: sticky;
+    bottom: 100vh;
+}
+.NavbarTwo {
+    display: flex;
+    gap: 20px;
+    position: sticky;
+    bottom: 100vh;
+}
+
+.Main {
+    text-align: center;
+}
+
+.Footer {
+    display: flex;
+    gap: 20px;
+    position: sticky;
+    top: 100vh;
+}
